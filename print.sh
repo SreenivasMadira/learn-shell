@@ -7,7 +7,7 @@ echo hello world
 # cyan 36
 
 # syntax
-# echo -e " \e[CODEmMESSAGE\e[0m
+# echo -e "\e[CODEmMESSAGE\e[0m
 echo -e "\e[31mhelloworld\e[0m"
 echo -e "\e[32mhelloworld\e[0m"
 echo -e "\e[33mhelloworld\e[0m"
